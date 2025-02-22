@@ -1,0 +1,38 @@
+{
+  "mocha_developer": "Mocha Developer",
+  "version": "versi",
+  "home": {
+    "tag_one": "Drink mocha with",
+    "tag_two": "people across the universe.",
+    "description": "Mocha adalah bot Discord untuk multi-chat lintas server, Bot ini memungkinkan Anda mengirim pesan ke beberapa saluran sekaligus. Anda dapat membuat saluran pribadi atau publik dan mengirim pesan ke sana. Bot ini juga akan menyaring pesan dari mentions yang berbahaya",
+    "invite_button_label": "Cicipi Mocha",
+    "invite_button_arrow_label": "Klik aku",
+    "docs_button_label": "Dokumentasi",
+    "discord_button_label": "Discord",
+    "supported_by": "Didukung oleh",
+    "donate": {
+      "title": "Donasi",
+      "description": "Bantu kami menjaga keberlanjutan bot ini, sehingga kami dapat menambahkan lebih banyak fitur.",
+      "modal": [
+        "Mocha dibangun oleh tim kecil dan kami akan selalu menambahkan fitur dan pembaruan lebih lanjut. Jika Anda ingin berdonasi, sumbangan Anda akan membantu kami meningkatkan layanan kami.",
+        "Terima kasih banyak dan selamat bersenang-senang, semoga Anda menyukainya!"
+      ]
+    }
+  },
+  "search": {
+    "title_desktop": "Jelajahi jutaan ruangan untuk terhubung",
+    "title_mobile": "Temukan ruangan",
+    "found_rooms": "<b>Ditemukan {{count}}</b> ruangan yang cocok dengan filter Anda",
+    "not_found": "Maaf 🙏 kami tidak memiliki ruangan yang terkait dengan kata kunci Anda. Silakan coba lagi atau mungkin Anda dapat <a>membuat ruangan baru</a>",
+    "filter": {
+      "name_placeholder": "Cari nama ruangan di sini ..."
+    }
+  },
+  "not_found": {
+    "title": "404",
+    "descriptions": [
+      "Waduh, Anda telah tersesat jauh, bahkan Pluto sudah di belakang Anda!",
+      "Sepertinya halaman yang Anda cari telah melenceng dari jalur."
+    ]
+  }
+}

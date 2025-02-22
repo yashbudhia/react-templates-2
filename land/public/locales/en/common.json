@@ -1,0 +1,38 @@
+{
+  "mocha_developer": "Mocha Developer",
+  "version": "version",
+  "home": {
+    "tag_one": "Drink mocha with",
+    "tag_two": "people across the universe.",
+    "description": "Mocha is a Discord bot for multi-chat cross-server, This bot allows you to send messages to multiple channels at once. You can create a private or public channel and send messages to it. The bot also filters out messages from prohibits mentions",
+    "invite_button_label": "Taste a Mocha",
+    "invite_button_arrow_label": "Click me",
+    "docs_button_label": "Docs",
+    "discord_button_label": "Discord",
+    "supported_by": "Supported by",
+    "donate": {
+      "title": "Donate",
+      "description": "Help us keep the bot alive, enabling us to add more features.",
+      "modal": [
+        "Mocha is built by a small team and we will always add more features and updates. If you want to donate, your donation will help us to improve our services.",
+        "Thank you very much and have fun, hope you like it!"
+      ]
+    }
+  },
+  "search": {
+    "title_desktop": "Explore millions of rooms to connect",
+    "title_mobile": "Discover Room",
+    "found_rooms": "<b>Found {{count}}</b> rooms match your filters",
+    "not_found": "Sorry 🙏 we don't have any room related to you keyword. Please try again or maybe you can <a>create a new room</a>",
+    "filter": {
+      "name_placeholder": "Search for a room name here ..."
+    }
+  },
+  "not_found": {
+    "title": "404",
+    "descriptions": [
+      "Whoops, you’ve wandered far, even Pluto is in your rearview!",
+      "Seems like the page you’re looking for has drifted off-course."
+    ]
+  }
+}
